@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1522960059 source:c:\users\ricsi\onedrive\asztali gép\xa5ozh\csalad.cpp
+	"csalad.h"
+
+1522962037 c:\users\ricsi\onedrive\asztali gép\xa5ozh\csalad.h
+	"film.h"
+
+1523972390 c:\users\ricsi\onedrive\asztali gép\xa5ozh\film.h
+	"myString.h"
+
+1523972022 c:\users\ricsi\onedrive\asztali gép\xa5ozh\mystring.h
+	<iostream>
+	<cstring>
+
+1522960186 source:c:\users\ricsi\onedrive\asztali gép\xa5ozh\dokumentum.cpp
+	"dokumentum.h"
+
+1522962101 c:\users\ricsi\onedrive\asztali gép\xa5ozh\dokumentum.h
+	"film.h"
+
+1523304393 source:c:\users\ricsi\onedrive\asztali gép\xa5ozh\film.cpp
+	"film.h"
+
+1523972472 source:c:\users\ricsi\onedrive\asztali gép\xa5ozh\main.cpp
+	<iostream>
+	"memtrace.h"
+	"film.h"
+
+1522421399 c:\users\ricsi\onedrive\asztali gép\xa5ozh\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1522421399 source:c:\users\ricsi\onedrive\asztali gép\xa5ozh\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+

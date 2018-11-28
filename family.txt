@@ -1,0 +1,10 @@
+family
+Family
+valaki
+2000
+12
+family
+valami
+valaki
+1998
+16
